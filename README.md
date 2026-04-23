@@ -34,9 +34,6 @@ Relevant Coursework: Machine Learning · Deep Learning · Distributed Systems ·
 
 ## 📄 Publications
 
-**[Decoding Cellular Complexity: A Deep Learning Expedition in Blood Cell Image Classification](https://github.com/Chandini149/Blood-Cell-Classification-Publication)**
-Springer Nature · FICC 2025, Berlin · Hybrid InceptionV3-Xception model achieving 98.51% accuracy on clinical pathology images.
-
 **[Generating and Analyzing News using Artificial Intelligence](https://www.ijaresm.com/uploaded_files/document_file/Aadish_SharmaUfVd.pdf)**
 IJARESM · Jun 2022 · Investigated AI-driven misinformation via GPT-3; proposed NLP-based detection algorithms for fake news identification on digital platforms.
 
